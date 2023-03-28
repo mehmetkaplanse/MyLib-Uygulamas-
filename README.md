@@ -1,2 +1,2 @@
-# MyLib-Uygulamas-
+# MyLib-Uygulamasi-
 MyLib Mobil Uygulama
