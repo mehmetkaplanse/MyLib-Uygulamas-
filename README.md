@@ -1,5 +1,5 @@
 # MyLib-Uygulamasi-
-MyLib Mobil Uygulama
+MyLib Mobil Uygulaması
 
 ## Features
 
