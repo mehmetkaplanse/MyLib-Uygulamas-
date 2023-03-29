@@ -10,3 +10,4 @@ MyLib Mobile Application
 * Dependency Injections with Hilt
 * Coroutines
 * Glide
+* Viewbinding
